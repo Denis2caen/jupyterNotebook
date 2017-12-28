@@ -1,2 +1,2 @@
 # jupyterNotebook
-Répertoire d'exemples de bloc note jupyter
+Répertoire d'exemples de blocnote jupyter
